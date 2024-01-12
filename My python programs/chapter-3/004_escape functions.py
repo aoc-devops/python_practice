@@ -1,0 +1,2 @@
+story="once upon a time there is a king,\n he was very brutal one and\tnever thinks with humanity\\ one"
+print(story) #\n is used to start string from new line, \t is used to tab, \\ is used to insert\, \' used to insert single quote
